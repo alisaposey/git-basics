@@ -1,0 +1,127 @@
+body{
+	background-color: #D6AF73;
+}
+
+
+
+.nav-main{
+	font-size: 30px;
+}
+
+.page-header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color:  #EFCF6785;
+}
+
+h1{text-align: left;
+font-size: 45px;
+color: rgba(83,152,45,1.00);}
+
+.about{
+	
+	background: #EFCF6785;
+}
+
+
+strong{font-size: 40px;
+color: rgba(83,152,45,1.00);}
+
+.skills{font-size: 30px;
+
+color: rgba(83,152,45,1.00);}
+
+.alisa_videography{
+	
+	display: flex;
+	justify-content: center;
+}
+
+.examples_title{
+text-align: center;
+font-size: 45px;
+color: rgba(83,152,45,1.00);
+	
+}
+
+
+.video{
+	
+	display: grid;
+	grid-template-columns: 450px 1fr;
+	grid-gap: 10px;
+	padding-bottom: 10px;
+}
+
+.editing{text-align:center; }
+
+.project_title{
+
+font-size: 35px;
+color: rgba(83,152,45,1.00);
+	
+}
+
+.video_editing{
+	background: #EFCF6785;
+	padding-top: 10px;
+	
+}
+
+.audio_editing_title{
+	
+	text-align:center;
+}
+
+.audio_production{
+	
+	background: #EFCF6785;
+	
+	
+}
+
+.audio_project{
+	
+	display: grid;
+	grid-template-columns: 450px 1fr;
+	grid-gap: 10px;
+	padding-bottom: 10px;
+}
+
+.live_steam_title{
+	
+	text-align:center;
+}
+
+.stream_project{
+	
+	display: grid;
+	grid-template-columns: 450px 1fr;
+	grid-gap: 10px;
+	padding-bottom: 10px;
+}
+
+.live_stream{
+	
+background: #EFCF6785;
+	
+}
+
+.social-media{
+	margin: 0;
+	list-style-type: none;
+	padding: 0;
+	display: flex;
+}
+
+.social-media a{
+	display: inline-block;
+	padding: 0.5rem;
+}
+
+.page-footer .container{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
